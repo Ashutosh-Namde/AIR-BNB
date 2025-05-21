@@ -55,6 +55,8 @@ userSchema.methods.generateAuthToken = async function(){
 if(!token) throw new Error("error geenrating token");
 return token
 }
+console.log(process.env.JWT_SECRET);
+
 
 userSchema.statics.authenticateUser = async function (email, password){
     const user = await this.findOne({email});

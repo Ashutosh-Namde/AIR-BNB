@@ -38,6 +38,7 @@ const verifyPaymentController = async (req, res, next) => {
       .populate("property" ," title location")
       
 
+
     if (!booking) return next(new CustomError("Booking not found", 400));
 
     // Generate and verify signature

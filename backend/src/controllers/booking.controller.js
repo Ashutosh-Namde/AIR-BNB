@@ -57,7 +57,7 @@ const createBookingController = async (req, res, next) => {
       razorpayOrder
     );
     await sendEmail(
-      "princechouksey137@gmail.com",
+      "namdevashutosh38@gmail.com",
       "Booking Confirmation",
       bookingTemplate
     );

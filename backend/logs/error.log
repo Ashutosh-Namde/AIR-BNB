@@ -221,3 +221,168 @@ undefined  error - 500 - User Not Found  - GET - /api/auth/profile - ::1
 2025-05-11T18:18:14.161Z  error - 500 - jwt expired - GET - /api/auth/profile - ::1
 2025-05-12T03:43:57.865Z  error - 500 - Please login to access this resource - GET - /api/auth/profile - ::1
 2025-05-12T03:43:57.991Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-16T11:00:58.710Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-16T11:00:58.732Z  error - 500 - Please login to access this resource - GET - /api/auth/profile - ::1
+2025-05-16T11:02:37.630Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-16T11:02:37.654Z  error - 500 - Please login to access this resource - GET - /api/auth/profile - ::1
+2025-05-16T11:07:58.298Z  error - 500 - Error in Deleting Property - DELETE - /api/property/delete/68271b89c3b6ac9ed7106686 - ::1
+2025-05-16T11:08:17.577Z  error - 500 - No payment found - GET - /api/payment/get-payment - ::1
+2025-05-16T11:09:15.411Z  error - 500 - No payment found - GET - /api/payment/get-payment - ::1
+2025-05-16T11:36:13.217Z  error - 500 - Cannot read properties of undefined (reading 'status') - POST - /api/booking/create - ::1
+2025-05-16T11:36:14.247Z  error - 500 - Cannot read properties of undefined (reading 'status') - POST - /api/booking/create - ::1
+2025-05-16T11:36:16.048Z  error - 500 - Cannot read properties of undefined (reading 'status') - POST - /api/booking/create - ::1
+2025-05-16T11:36:21.265Z  error - 500 - Cannot read properties of undefined (reading 'status') - POST - /api/booking/create - ::1
+2025-05-16T11:36:21.835Z  error - 500 - Cannot read properties of undefined (reading 'status') - POST - /api/booking/create - ::1
+2025-05-16T11:36:22.058Z  error - 500 - Cannot read properties of undefined (reading 'status') - POST - /api/booking/create - ::1
+2025-05-16T11:36:33.098Z  error - 500 - Cannot read properties of undefined (reading 'status') - POST - /api/booking/create - ::1
+2025-05-16T11:36:40.643Z  error - 500 - Cannot read properties of undefined (reading 'status') - POST - /api/booking/create - ::1
+2025-05-16T11:37:51.006Z  error - 500 - Cannot read properties of undefined (reading 'status') - POST - /api/booking/create - ::1
+2025-05-16T11:37:51.992Z  error - 500 - Cannot read properties of undefined (reading 'status') - POST - /api/booking/create - ::1
+2025-05-16T11:38:19.800Z  error - 500 - Cannot read properties of undefined (reading 'status') - POST - /api/booking/create - ::1
+2025-05-16T11:38:26.548Z  error - 500 - Cannot read properties of undefined (reading 'status') - POST - /api/booking/create - ::1
+2025-05-16T11:42:41.434Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-16T11:42:41.457Z  error - 500 - Please login to access this resource - GET - /api/auth/profile - ::1
+2025-05-16T11:43:34.688Z  error - 500 - Please login to access this resource - POST - /api/auth/logout - ::1
+2025-05-18T12:22:14.435Z  error - 500 - jwt expired - GET - /api/property/get-all - ::1
+2025-05-18T12:22:14.457Z  error - 500 - jwt expired - GET - /api/auth/profile - ::1
+2025-05-18T12:24:16.047Z  error - 500 - jwt expired - GET - /api/property/get-all - ::1
+2025-05-18T12:24:16.231Z  error - 500 - jwt expired - GET - /api/auth/profile - ::1
+2025-05-18T12:24:19.250Z  error - 500 - jwt expired - GET - /api/property/get-all - ::1
+2025-05-18T12:24:19.412Z  error - 500 - jwt expired - GET - /api/auth/profile - ::1
+2025-05-18T12:25:36.133Z  error - 500 - Error in Deleting Property - DELETE - /api/property/delete/68271b96c3b6ac9ed710668e - ::1
+2025-05-18T12:25:37.316Z  error - 500 - Error in Deleting Property - DELETE - /api/property/delete/68271b96c3b6ac9ed710668e - ::1
+2025-05-18T12:25:38.351Z  error - 500 - Error in Deleting Property - DELETE - /api/property/delete/68271b96c3b6ac9ed710668e - ::1
+2025-05-18T12:25:43.064Z  error - 500 - No payment found - GET - /api/payment/get-payment - ::1
+2025-05-18T12:25:50.167Z  error - 500 - No payment found - GET - /api/payment/get-payment - ::1
+2025-05-18T14:30:41.301Z  error - 500 - jwt expired - GET - /api/property/get-all - ::1
+2025-05-18T14:30:41.650Z  error - 500 - jwt expired - GET - /api/auth/profile - ::1
+2025-05-18T18:39:05.279Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-18T18:39:05.308Z  error - 500 - Please login to access this resource - GET - /api/auth/profile - ::1
+2025-05-18T18:39:14.722Z  error - 500 - Invalid email or password - POST - /api/auth/login - ::1
+2025-05-18T18:39:17.252Z  error - 500 - Invalid email or password - POST - /api/auth/login - ::1
+2025-05-18T18:39:28.083Z  error - 500 - Invalid email or password - POST - /api/auth/login - ::1
+2025-05-18T18:39:29.083Z  error - 500 - Invalid email or password - POST - /api/auth/login - ::1
+2025-05-18T18:39:29.880Z  error - 500 - Invalid email or password - POST - /api/auth/login - ::1
+2025-05-18T18:39:32.396Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-18T18:39:32.451Z  error - 500 - Please login to access this resource - GET - /api/auth/profile - ::1
+2025-05-18T18:39:43.465Z  error - 500 - Invalid email or password - POST - /api/auth/login - ::1
+2025-05-18T18:39:56.435Z  error - 500 - secretOrPrivateKey must have a value - POST - /api/auth/register - ::1
+2025-05-18T18:40:06.031Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-18T18:40:06.071Z  error - 500 - Please login to access this resource - GET - /api/auth/profile - ::1
+2025-05-18T18:40:37.807Z  error - 500 - secretOrPrivateKey must have a value - POST - /api/auth/login - ::1
+2025-05-18T18:40:39.029Z  error - 500 - secretOrPrivateKey must have a value - POST - /api/auth/login - ::1
+2025-05-18T18:40:39.229Z  error - 500 - secretOrPrivateKey must have a value - POST - /api/auth/login - ::1
+2025-05-18T18:40:40.296Z  error - 500 - secretOrPrivateKey must have a value - POST - /api/auth/login - ::1
+2025-05-18T18:41:14.283Z  error - 500 - secretOrPrivateKey must have a value - POST - /api/auth/login - ::1
+2025-05-18T18:42:29.412Z  error - 500 - secretOrPrivateKey must have a value - POST - /api/auth/login - ::1
+2025-05-18T18:42:33.736Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-18T18:42:33.764Z  error - 500 - Please login to access this resource - GET - /api/auth/profile - ::1
+2025-05-18T18:42:42.518Z  error - 500 - secretOrPrivateKey must have a value - POST - /api/auth/login - ::1
+2025-05-18T18:47:15.428Z  error - 500 - secretOrPrivateKey must have a value - POST - /api/auth/login - ::1
+2025-05-18T18:48:32.263Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-18T18:48:32.686Z  error - 500 - Please login to access this resource - GET - /api/auth/profile - ::1
+2025-05-18T18:49:14.997Z  error - 500 - secretOrPrivateKey must have a value - POST - /api/auth/login - ::1
+2025-05-18T18:50:37.350Z  error - 500 - secretOrPrivateKey must have a value - POST - /api/auth/register - ::1
+2025-05-18T18:52:01.628Z  error - 500 - secretOrPrivateKey must have a value - POST - /api/auth/login - ::1
+2025-05-18T18:52:07.783Z  error - 500 - Please login to access this resource - POST - /api/property/create - ::1
+2025-05-18T18:52:07.854Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-18T18:52:07.868Z  error - 500 - Please login to access this resource - GET - /api/auth/profile - ::1
+2025-05-18T18:52:16.652Z  error - 500 - Please login to access this resource - POST - /api/property/create - ::1
+2025-05-18T18:52:16.730Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-18T18:52:16.753Z  error - 500 - Please login to access this resource - GET - /api/auth/profile - ::1
+2025-05-18T18:53:25.867Z  error - 500 - secretOrPrivateKey must have a value - POST - /api/auth/login - ::1
+2025-05-18T19:03:55.996Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-18T19:03:56.014Z  error - 500 - Please login to access this resource - GET - /api/auth/profile - ::1
+2025-05-18T19:04:01.054Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-18T19:04:01.064Z  error - 500 - Please login to access this resource - GET - /api/auth/profile - ::1
+2025-05-18T19:09:52.327Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-18T19:09:52.334Z  error - 500 - Please login to access this resource - GET - /api/auth/profile - ::1
+2025-05-18T19:12:39.865Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-18T19:12:39.893Z  error - 500 - Please login to access this resource - GET - /api/auth/profile - ::1
+2025-05-18T19:12:55.190Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-18T19:12:55.204Z  error - 500 - Please login to access this resource - GET - /api/auth/profile - ::1
+2025-05-20T13:06:40.707Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-20T13:06:40.774Z  error - 500 - Please login to access this resource - GET - /api/auth/profile - ::1
+2025-05-20T16:17:41.413Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-20T16:17:41.460Z  error - 500 - Please login to access this resource - GET - /api/auth/profile - ::1
+2025-05-20T16:17:43.906Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-20T16:17:43.963Z  error - 500 - Please login to access this resource - GET - /api/auth/profile - ::1
+2025-05-20T16:18:48.177Z  error - 500 - Please login to access this resource - POST - /api/property/create - ::1
+2025-05-20T16:18:48.486Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-20T16:18:48.501Z  error - 500 - Please login to access this resource - GET - /api/auth/profile - ::1
+2025-05-20T16:19:06.307Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-20T16:19:06.520Z  error - 500 - Please login to access this resource - GET - /api/auth/profile - ::1
+2025-05-20T16:19:18.225Z  error - 500 - Please login to access this resource - POST - /api/property/create - ::1
+2025-05-20T16:19:18.323Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-20T16:19:18.339Z  error - 500 - Please login to access this resource - GET - /api/auth/profile - ::1
+2025-05-20T16:20:18.158Z  error - 500 - Please login to access this resource - POST - /api/auth/logout - ::1
+2025-05-20T16:20:23.561Z  error - 500 - Please login to access this resource - POST - /api/auth/logout - ::1
+2025-05-20T16:22:59.691Z  error - 500 - Please login to access this resource - POST - /api/property/create - ::1
+2025-05-20T16:22:59.791Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-20T16:22:59.796Z  error - 500 - Please login to access this resource - GET - /api/auth/profile - ::1
+2025-05-20T17:06:41.541Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-20T17:06:41.679Z  error - 500 - Please login to access this resource - GET - /api/auth/profile - ::1
+2025-05-20T17:07:33.083Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-20T17:07:33.095Z  error - 500 - Please login to access this resource - GET - /api/auth/profile - ::1
+2025-05-20T17:08:03.764Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-20T17:08:03.952Z  error - 500 - Please login to access this resource - GET - /api/auth/profile - ::1
+2025-05-20T17:09:55.322Z  error - 500 - Please login to access this resource - POST - /api/property/create - ::1
+2025-05-20T17:09:55.418Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-20T17:09:55.425Z  error - 500 - Please login to access this resource - GET - /api/auth/profile - ::1
+2025-05-20T17:12:25.855Z  error - 500 - Please login to access this resource - POST - /api/property/create - ::1
+2025-05-20T17:12:25.935Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-20T17:12:25.944Z  error - 500 - Please login to access this resource - GET - /api/auth/profile - ::1
+2025-05-20T17:12:59.171Z  error - 500 - Please login to access this resource - POST - /api/auth/logout - ::1
+2025-05-20T17:53:59.250Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-20T17:53:59.295Z  error - 500 - Please login to access this resource - GET - /api/auth/profile - ::1
+2025-05-20T17:54:39.171Z  error - 500 - Please login to access this resource - POST - /api/property/create - ::1
+2025-05-20T17:54:39.257Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-20T17:54:39.277Z  error - 500 - Please login to access this resource - GET - /api/auth/profile - ::1
+2025-05-21T12:52:26.967Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-21T12:52:26.999Z  error - 500 - Please login to access this resource - GET - /api/auth/profile - ::1
+2025-05-21T12:53:55.754Z  error - 500 - Please login to access this resource - POST - /api/property/create - ::1
+2025-05-21T12:53:55.834Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-21T12:53:55.855Z  error - 500 - Please login to access this resource - GET - /api/auth/profile - ::1
+2025-05-21T12:54:01.742Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-21T12:54:01.778Z  error - 500 - Please login to access this resource - GET - /api/auth/profile - ::1
+2025-05-21T12:56:42.454Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-21T12:56:42.522Z  error - 500 - Please login to access this resource - GET - /api/auth/profile - ::1
+2025-05-21T12:56:56.821Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-21T12:56:56.833Z  error - 500 - Please login to access this resource - GET - /api/auth/profile - ::1
+2025-05-21T12:57:01.433Z  error - 500 - Please login to access this resource - POST - /api/auth/logout - ::1
+2025-05-21T12:57:22.425Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-21T12:57:28.368Z  error - 500 - Please login to access this resource - GET - /api/booking/get-all-booking - ::1
+2025-05-21T12:57:30.770Z  error - 500 - Please login to access this resource - GET - /api/payment/get-payment - ::1
+2025-05-21T12:57:32.706Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-21T12:57:42.520Z  error - 500 - Please login to access this resource - GET - /api/booking/get-all-booking - ::1
+2025-05-21T12:57:52.797Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-21T12:57:52.810Z  error - 500 - Please login to access this resource - GET - /api/auth/profile - ::1
+2025-05-21T12:58:18.955Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-21T12:58:20.082Z  error - 500 - Please login to access this resource - GET - /api/booking/get-all-booking - ::1
+2025-05-21T12:58:21.179Z  error - 500 - Please login to access this resource - GET - /api/payment/get-payment - ::1
+2025-05-21T12:59:51.190Z  error - 500 - jwt expired - GET - /api/property/get-all - ::1
+2025-05-21T12:59:51.197Z  error - 500 - jwt expired - GET - /api/auth/profile - ::1
+2025-05-21T13:05:50.977Z  error - 500 - Please login to access this resource - POST - /api/auth/logout - ::1
+2025-05-21T13:07:54.958Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-21T13:07:55.003Z  error - 500 - Please login to access this resource - GET - /api/auth/profile - ::1
+2025-05-21T13:08:29.154Z  error - 500 - Please login to access this resource - POST - /api/property/create - ::1
+2025-05-21T13:08:29.337Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-21T13:08:29.354Z  error - 500 - Please login to access this resource - GET - /api/auth/profile - ::1
+2025-05-21T13:11:47.467Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-21T13:11:47.478Z  error - 500 - Please login to access this resource - GET - /api/auth/profile - ::1
+2025-05-21T13:12:11.247Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-21T13:12:11.273Z  error - 500 - Please login to access this resource - GET - /api/booking/get-all-booking - ::1
+2025-05-21T13:12:20.631Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-21T13:12:51.293Z  error - 500 - Please login to access this resource - POST - /api/auth/logout - ::1
+2025-05-21T13:13:16.671Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-21T13:13:16.745Z  error - 500 - Please login to access this resource - GET - /api/auth/profile - ::1
+2025-05-21T13:13:41.321Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-21T13:13:41.405Z  error - 500 - Please login to access this resource - GET - /api/auth/profile - ::1
+2025-05-21T13:19:12.406Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-21T13:19:12.453Z  error - 500 - Please login to access this resource - GET - /api/auth/profile - ::1
+2025-05-21T15:06:16.010Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-21T15:06:16.078Z  error - 500 - Please login to access this resource - GET - /api/auth/profile - ::1
+2025-05-21T15:06:49.855Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-21T15:06:49.875Z  error - 500 - Please login to access this resource - GET - /api/auth/profile - ::1
+2025-05-21T15:07:03.480Z  error - 500 - Please login to access this resource - GET - /api/property/get-all - ::1
+2025-05-21T15:07:03.523Z  error - 500 - Please login to access this resource - GET - /api/auth/profile - ::1
