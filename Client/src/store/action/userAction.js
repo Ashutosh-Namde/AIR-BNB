@@ -8,11 +8,11 @@ import {
 import { login, logout } from "../userSlice";
 
 
-// export const asyncCurrentUser = (user) => async (dispatch) => {
-//   const res = await currentUserService(user);
-//   dispatch(login(res));
-//   return res;
-// };
+export const asyncCurrentUser = (user) => async (dispatch) => {
+  const res = await currentUserService(user);
+  dispatch(login(res));
+  return res;
+};
 
 export const asyncSignUp = (user) => async (dispatch) => {
   const res = await signUpService(user);
